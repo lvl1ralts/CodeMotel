@@ -37,18 +37,6 @@ A full-stack collaborative coding platform for real-time problem solving, code s
 
 ---
 
-## 📦 Project Structure
-
-
-CodeMotel-Collaborative-Platform/
-├── client/          # React frontend
-├── server/          # Node.js backend
-├── README.md
-└── .env.example     # Environment variable templates
-
-
----
-
 ## ⚡ Getting Started
 
 ### 1. *Clone the Repository*
