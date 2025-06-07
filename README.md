@@ -4,6 +4,12 @@ A full-stack collaborative coding platform for real-time problem solving, code s
 
 ---
 
+## 🔗 Deployed Client Link
+
+🔗 [CodeMotel](https://codemotel.vercel.app/)
+
+---
+
 ## 🚀 Features
 
 - *User Authentication:* Register, login, and manage your profile securely with JWT.
