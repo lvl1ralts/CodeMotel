@@ -117,6 +117,11 @@ FRONTEND_URL=https://your-frontend.vercel.app
 REACT_APP_API_URL=https://your-backend.vercel.app/api
 REACT_APP_SERVER_URL=https://your-backend.vercel.app
 
+---
+
+## How to recieve the JWT_SECRET?
+
+run 'node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"' and copy paste the key in there 
 
 ---
 
