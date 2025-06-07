@@ -140,3 +140,5 @@ REACT_APP_SERVER_URL=https://your-backend.vercel.app
 ---
 
 *CodeMotel* — Level up your coding skills together!
+
+---
